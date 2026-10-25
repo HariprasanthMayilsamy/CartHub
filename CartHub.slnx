@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CartHub/CartHub.csproj" />
+  <Project Path="CartHubData/CartHubData.csproj" Id="501b7ddd-b737-42e4-9a18-8910c5a32cfc" />
+  <Project Path="CartHubService/CartHubService.csproj" Id="22a3050b-02d9-4aca-ae30-0c8a5de76da8" />
+  <Project Path="ICartHubService/ICartHubService.csproj" Id="0a86b22a-75af-4479-90ed-adb2744af3e6" />
+</Solution>
